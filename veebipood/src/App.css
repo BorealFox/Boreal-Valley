@@ -1,0 +1,16 @@
+.chad {
+  height: 200px;
+  width: 200px;
+}
+
+.chad:hover {
+  opacity: 0.7 ;
+}
+
+.nupp:hover {
+  font-weight: bold;
+}
+
+.nupp {
+  cursor: pointer;
+}
